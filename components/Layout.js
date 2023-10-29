@@ -6,9 +6,7 @@ export default function Layout({ children }) {
 			<Header />
 			
 			<div id={'container'}>
-				<div className={'contents'}>
-					{children}
-				</div>
+				{children}
 			</div>
 		</>
 	);
