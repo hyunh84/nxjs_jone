@@ -14,7 +14,7 @@ const WorkPresenterDefault = ()=>{
 					<li>
 						<div className="histroyCardBox">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtSummary'}>APP(IOS, Andriod) / 2021 ~2022</div>
 							<div className={'pjtName'}>BNK저축은행 모바일 뱅킹 앱 고도화 UIUX 구축</div>
@@ -28,7 +28,7 @@ const WorkPresenterDefault = ()=>{
 					<li>
 						<div className="histroyCardBox">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtSummary'}>APP(IOS, Andriod) / Web /  Mobile Web / 2021 ~2022</div>
 							<div className={'pjtName'}>BNK부산은행 비대면 방카슈랑스 UIUX 수행</div>
@@ -41,7 +41,7 @@ const WorkPresenterDefault = ()=>{
 					<li>
 						<div className="histroyCardBox">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtSummary'}>APP(IOS, Andriod) / 2021 </div>
 							<div className={'pjtName'}>KKP SOHOM 앱 UIUX 구축</div>
@@ -54,7 +54,7 @@ const WorkPresenterDefault = ()=>{
 					<li>
 						<div className="histroyCardBox">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtSummary'}>APP(IOS, Andriod) / 2021 </div>
 							<div className={'pjtName'}>KKP JELLYFOOT 앱 UIUX 구축</div>
@@ -67,7 +67,7 @@ const WorkPresenterDefault = ()=>{
 					<li>
 						<div className="histroyCardBox">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtSummary'}>APP(IOS, Andriod) / 2021 </div>
 							<div className={'pjtName'}>BNK부산은행 소매대출 one 상품 프로세스 UIUX 개발</div>

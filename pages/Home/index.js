@@ -1,6 +1,6 @@
 import HomeContainer from './HomeContainer';
 
-const Home = ({ children }) => {
+const Home = () => {
 
 	return (
 		// 'Hellow'

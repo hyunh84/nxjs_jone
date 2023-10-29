@@ -22,7 +22,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `url("/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>우리카드</div>
 							<div className={'pjtPeriod'}>App / Web / Mobile Web / 2020</div>
@@ -32,7 +32,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `url("/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>Global Woori WON Banking</div>
 							<div className={'pjtPeriod'}>App / Web / 2019~2020</div>
@@ -42,7 +42,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `url("/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>광주은행 개인뱅킹</div>
 							<div className={'pjtPeriod'}>App / 2020</div>
@@ -52,7 +52,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `url("/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>DGB 태블릿브랜치</div>
 							<div className={'pjtPeriod'}>App / Web / Mobile Web / 2020</div>
@@ -62,7 +62,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `url("/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>BNK부산은행 STM</div>
 							<div className={'pjtPeriod'}>STM/ 2020</div>
@@ -72,7 +72,7 @@ const WorkPresenterSlide = ()=>{
 					<li className={'swiper-slide'}>
 						<div className="histroyCardBox02">
 							<span className={'img'} style={{
-								backgroundImage : `url("${process.env.PUBLIC_URL}/resources/images/temp/temp.jpg")`
+								backgroundImage : `/resources/images/temp/temp.jpg")`
 							}}></span>
 							<div className={'pjtName'}>㈜삼주 트리콜 대리운전</div>
 							<div className={'pjtPeriod'}>App / Web / Mobile Web / 2020</div>
